@@ -1,0 +1,19 @@
+/* index.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ececec;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+button {
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  opacity: 0.8;
+}
